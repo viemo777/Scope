@@ -1,5 +1,7 @@
 import sys
 
+print('any'.encode())
+
 print(sys.path)
 print(sys.api_version)
 print(sys.getwindowsversion())
